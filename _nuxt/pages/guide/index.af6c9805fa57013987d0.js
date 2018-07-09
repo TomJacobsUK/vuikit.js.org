@@ -1,0 +1,1 @@
+webpackJsonp([5],{"pa6+":function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.default={beforeRouteEnter:function(e,t,n){n({path:"/guide/introduction"})},render:function(e){return e("div")}}}});
