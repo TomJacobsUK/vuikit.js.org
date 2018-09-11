@@ -2,15 +2,15 @@
 
 <p class="uk-text-lead">Getting familiar with Vuikit.</p>
 
-Vuikit is a [MIT](https://github.com/vuikit/vuikit/blob/develop/LICENSE) licensed [Vue](https://vuejs.org/) UI library based on [UIkit](https://getuikit.com/). In other words, Vuikit fulfills the necessity of a consistent and responsive library for building web site interfaces.
+Vuikit is a [MIT](https://github.com/vuikit/vuikit/blob/develop/LICENSE) licensed [Vue](https://vuejs.org/) UI library based on [UIkit](https://getuikit.com/). In other words, Vuikit fulfils the necessity of a consistent and responsive library for building web site interfaces.
 
 ***
 
 ## From UIkit to Vuikit
 
-YOOtheme, the team behind UIkit, is doing a fantastic job maintaining one of the most popular front-end framework. Their expertise from building themes for Joomla! and WordPress can be very well felt and enjoyed while integrating UIkit.
+YOOtheme, the team behind UIkit, is doing a fantastic job maintaining one of the most popular front-end frameworks. Their expertise from building themes for Joomla! and WordPress can be very well felt and enjoyed while integrating UIkit.
 
-When Vue entered the scene to change the way we do JavaScript, YOOtheme was one of the first teams to embrace it and integrate it within their products. But underneath, UIkit was still running the show with it own code logic. While that might be the best option for them it is not from a Vue library perspective.
+When Vue entered the scene to change the way we do JavaScript, YOOtheme was one of the first teams to embrace it and integrate it into their products. But underneath, UIkit was still running the show with its own code logic. While that might be the best option for them, it is not from a Vue library perspective.
 
 The gap between Vue and UIkit was obvious and knowing that the solution would not be brought by the core team, Vuikit has emerged as an independent project that port and extend UIkit to the world of Vue.
 
